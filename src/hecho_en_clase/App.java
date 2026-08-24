@@ -1,3 +1,4 @@
+package hecho_en_clase;
 public class App {
     public static void main(String[] args)  {
         //Instanciar

@@ -1,3 +1,4 @@
+package hecho_en_clase;
 public class Estudiante{
    //Atributos
     String codigo;
