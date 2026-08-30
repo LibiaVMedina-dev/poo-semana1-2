@@ -4,7 +4,7 @@ public class App {
         //Instanciar
         Estudiante irma = new Estudiante();
         irma.codigo = "N000001";
-        irma.nombre = "Irma Bardales";
+        irma.nombre = "Irma Rosales";
         irma.promedio = 16.5;
         irma.edad = 20;
         irma.mostrardatos();
