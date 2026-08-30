@@ -3,7 +3,7 @@ package semana01_tarea;
 public class MiPerfil {
     public static void main(String[] args) {
         // Datos del estudiante (variables primitivas)
-        String nombre = "Diana García";
+        String nombre = "Dario Ocampo";
         int edad = 20;
         double promedio = 15.5;
         boolean masde5cursos = true;
